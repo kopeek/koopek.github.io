@@ -1,15 +1,15 @@
-*{
-    margin:0;
-    padding:0;
-    box-sizing: border-box;
-}
+
 
 body{
     background-color: rgb(42, 49, 63);
-    min-height:100vh;
-    display: flex;
     display: grid;
     place-items:center;
+    grid-template-rows: 100px 100px;
+    row-gap: 30px;
+    column-gap: 30px;
+
+
+
 }
 
 .download-btn{
