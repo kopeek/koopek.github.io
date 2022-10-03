@@ -4,12 +4,6 @@ body{
     background-color: rgb(42, 49, 63);
     display: grid;
     place-items:center;
-    grid-template-rows: 100px 100px;
-    row-gap: 30px;
-    column-gap: 30px;
-
-
-
 }
 
 .download-btn{
