@@ -1,0 +1,24 @@
+
+
+body{
+    background-color: rgb(42, 49, 63);
+    display: grid;
+    place-items:center;
+}
+
+.download-btn{
+    background-color: DodgerBlue;
+    color: white;
+    padding: 1rem 2rem;
+    font-size: 1rem;
+    text-decoration: none;
+    border-radius:5px;
+}
+
+.gora{
+    background-color: rgb(23, 23, 23);
+    padding: 0.5rem 1.5rem;
+    font-size: 2rem;
+
+    border-radius:3px;
+}
